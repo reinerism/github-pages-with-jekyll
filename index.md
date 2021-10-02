@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+MY PAGE: "Reiner Opitz"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Need at least 3 pages for assignment
